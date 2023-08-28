@@ -1,4 +1,5 @@
-### Hi there 👋
+Olá, sou Paulo André, estudante do curso de Análise e Desenvolvimento de Sistemas, no IFPI - Campus Picos
+
 
 <!--
 **pauloandrepassos/pauloandrepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
