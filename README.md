@@ -9,7 +9,7 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas, no IFPI - Camp
 Como desenvolvedor de software, estou sempre explorando novas tecnologias e aprimorando minhas habilidades. Abaixo estão algumas das tecnologias em que tenho habilidade:
 
 - Linguagens de Programação: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Desenvolvimento Web: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [React](https://reactjs.org/), [Node.js](https://nodejs.org/)
+- Desenvolvimento Web: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [React](https://reactjs.org/), [Next.js](https://nextjs.org/docs) [Node.js](https://nodejs.org/)
 - Controle de Versão: [Git](https://git-scm.com/)
 
 <!---### 📚 Projetos em Destaque
