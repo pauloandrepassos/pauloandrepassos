@@ -1,8 +1,9 @@
-# Paulo André
 
-## 👋 Bem-vindo ao meu perfil do GitHub!
-
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas, no IFPI - Campus Picos
+<div align="center">
+  <h1>👋 Olá, sou <b>Paulo André</b>!</h1>
+  <p>Desenvolvedor Full Stack | Apaixonado por tecnologia</p>
+  <img src="https://komarev.com/ghpvc/?username=pauloandrepassos&color=blue" alt="Profile views"/>
+</div>
 
 ### 🚀 Habilidades e Tecnologias  
 
